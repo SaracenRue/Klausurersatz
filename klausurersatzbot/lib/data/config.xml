@@ -1,0 +1,10 @@
+<config>
+    <prefix>!</prefix>
+    <schimpfwoerter>
+        <wort>arschloch</wort>
+        <wort>du hund</wort></schimpfwoerter>
+    <spamconfig>
+        <zeit>15</zeit>
+        <nachrichten>3</nachrichten>
+    </spamconfig>
+</config>
